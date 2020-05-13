@@ -1,0 +1,38 @@
+[2020-05-13 14:31:38.511] [sharedprocess] [info] main {"machineId":"03b53b7ee857dc1aa270f49cb3fbacedcceac098e9e7fa68013cf978aa01269e","windowId":2}
+[2020-05-13 14:31:38.716] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/Users/sarlex/dev/reactworks/demo/~/.vscode-root/User/snippets'
+[2020-05-13 14:31:42.519] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2020-05-13 14:31:42.521] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-05-13 14:31:42.526] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2020-05-13 14:31:42.527] [sharedprocess] [info] Installing extension: vscjava.vscode-java-debug
+[2020-05-13 14:31:42.527] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-05-13 14:32:07.334] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/f6b7dcea-341d-4bca-b1eb-9a5cce0eff87
+[2020-05-13 14:32:07.922] [sharedprocess] [info] Extracted extension to /Users/sarlex/.vscode/extensions/.ms-azuretools.vscode-docker-1.2.0: ms-azuretools.vscode-docker
+[2020-05-13 14:32:07.923] [sharedprocess] [info] Renamed to /Users/sarlex/.vscode/extensions/ms-azuretools.vscode-docker-1.2.0
+[2020-05-13 14:32:07.927] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2020-05-13 14:32:08.039] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2020-05-13 14:32:12.367] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/dd688067-54fd-459b-ac59-672e1d2a85ef
+[2020-05-13 14:32:13.237] [sharedprocess] [info] Extracted extension to /Users/sarlex/.vscode/extensions/.ms-vscode.cpptools-0.28.0: ms-vscode.cpptools
+[2020-05-13 14:32:13.238] [sharedprocess] [info] Renamed to /Users/sarlex/.vscode/extensions/ms-vscode.cpptools-0.28.0
+[2020-05-13 14:32:13.249] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-05-13 14:32:13.286] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2020-05-13 14:32:18.622] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-13 14:32:20.548] [sharedprocess] [info] Downloaded extension: vscjava.vscode-java-debug /tmp/66f830ca-2f1c-4048-9df8-2c9a5b13598f
+[2020-05-13 14:32:20.634] [sharedprocess] [info] Extracted extension to /Users/sarlex/.vscode/extensions/.vscjava.vscode-java-debug-0.26.0: vscjava.vscode-java-debug
+[2020-05-13 14:32:20.635] [sharedprocess] [info] Renamed to /Users/sarlex/.vscode/extensions/vscjava.vscode-java-debug-0.26.0
+[2020-05-13 14:32:20.636] [sharedprocess] [info] Installation completed. vscjava.vscode-java-debug
+[2020-05-13 14:32:20.651] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-java-debug
+[2020-05-13 14:32:30.514] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/f4afe8c7-7ff3-4696-aa14-ea0d4006d77c
+[2020-05-13 14:32:30.518] [sharedprocess] [error] Failed to install extension: vscjava.vscode-maven Corrupt ZIP: end of central directory record signature not found
+[2020-05-13 14:32:38.944] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-05-13 14:34:32.907] [sharedprocess] [info] Uninstalling extension: ms-vscode.cpptools
+[2020-05-13 14:34:32.970] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cpptools
+[2020-05-13 14:35:39.706] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /tmp/db636f5d-e6ae-4222-887a-be80677e4c41
+[2020-05-13 14:35:40.796] [sharedprocess] [info] Extracted extension to /Users/sarlex/.vscode/extensions/.vscjava.vscode-maven-0.21.4: vscjava.vscode-maven
+[2020-05-13 14:35:40.797] [sharedprocess] [info] Renamed to /Users/sarlex/.vscode/extensions/vscjava.vscode-maven-0.21.4
+[2020-05-13 14:35:40.798] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-05-13 14:35:40.816] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-05-13 14:39:41.823] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/b10f97eb-53e3-4cb3-8d91-0d530ad93083
+[2020-05-13 14:39:48.540] [sharedprocess] [info] Extracted extension to /Users/sarlex/.vscode/extensions/.ms-python.python-2020.5.78807: ms-python.python
+[2020-05-13 14:39:48.540] [sharedprocess] [info] Renamed to /Users/sarlex/.vscode/extensions/ms-python.python-2020.5.78807
+[2020-05-13 14:39:48.546] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-05-13 14:39:48.592] [sharedprocess] [info] Extensions installed successfully: ms-python.python
