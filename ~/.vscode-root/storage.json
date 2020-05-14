@@ -2,9 +2,20 @@
     "telemetry.machineId": "03b53b7ee857dc1aa270f49cb3fbacedcceac098e9e7fa68013cf978aa01269e",
     "openedPathsList": {
         "workspaces3": [
+            "file:///Users/sarlex/dev/evince-hr2-env/evincehr-django-2.0-compatible",
+            "file:///Users/sarlex/Downloads/forms--03-finished",
+            "file:///Users/sarlex/Downloads/routing-burger--03-finished",
+            "file:///Users/sarlex/Downloads/routing--05-finished",
+            "file:///Users/sarlex/Downloads/http-burger--03-finished",
+            "file:///Users/sarlex/dev/reactworks/1/demo",
             "file:///Users/sarlex/dev/reactworks/demo"
         ],
-        "files2": []
+        "files2": [
+            "file:///Users/sarlex/Downloads/burger-basics--06-finished/src/App.js",
+            "file:///Users/sarlex/Downloads/burger-basics--06-finished/src/components/Burger/Burger.js",
+            "file:///Users/sarlex/Downloads/burger-basics--01-after-eject-and-css-modules/package.json",
+            "file:///Users/sarlex/dev/reactworks/1/demo/config/webpack.config.js"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -36,8 +47,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -46,13 +56,116 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/Users/sarlex/dev/reactworks/demo",
-                                        "external": "file:///Users/sarlex/dev/reactworks/demo",
+                                        "fsPath": "/Users/sarlex/dev/reactworks/1/demo",
+                                        "external": "file:///Users/sarlex/dev/reactworks/1/demo",
+                                        "path": "/Users/sarlex/dev/reactworks/1/demo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dev/reactworks/1/demo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/dev/evince-hr2-env/evincehr-django-2.0-compatible",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dev/evince-hr2-env/evincehr-django-2.0-compatible"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/forms--03-finished",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/forms--03-finished"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/routing-burger--03-finished",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/routing-burger--03-finished"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/routing--05-finished",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/routing--05-finished"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/http-burger--03-finished",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/http-burger--03-finished"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "path": "/Users/sarlex/dev/reactworks/demo",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/dev/reactworks/demo"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/burger-basics--06-finished/src/App.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/burger-basics--06-finished/src/App.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/burger-basics--06-finished/src/components/Burger/Burger.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/burger-basics--06-finished/src/components/Burger/Burger.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/Downloads/burger-basics--01-after-eject-and-css-modules/package.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/burger-basics--01-after-eject-and-css-modules/package.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/Users/sarlex/dev/reactworks/1/demo/config/webpack.config.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/dev/reactworks/1/demo/config/webpack.config.js"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1431,18 +1544,42 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///Users/sarlex/dev/reactworks/demo",
-            "backupPath": "/Users/sarlex/dev/reactworks/demo/~/.vscode-root/Backups/5b0fe139037d319b075b71ead20beead",
+            "folder": "file:///Users/sarlex/dev/reactworks/1/demo",
+            "backupPath": "/Users/sarlex/dev/reactworks/1/demo/~/.vscode-root/Backups/8fb2ca2352b6b13476aa59a38943a143",
             "uiState": {
                 "mode": 3,
                 "display": 69731840,
                 "width": 1024,
-                "height": 712,
+                "height": 768,
                 "x": 128,
-                "y": 23
+                "y": 16
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///Users/sarlex/dev/reactworks/1/demo",
+                "backupPath": "/Users/sarlex/dev/reactworks/1/demo/~/.vscode-root/Backups/8fb2ca2352b6b13476aa59a38943a143",
+                "uiState": {
+                    "mode": 3,
+                    "display": 69731840,
+                    "width": 1024,
+                    "height": 768,
+                    "x": 128,
+                    "y": 16
+                }
+            },
+            {
+                "folder": "file:///Users/sarlex/dev/evince-hr2-env/evincehr-django-2.0-compatible",
+                "backupPath": "/Users/sarlex/dev/reactworks/1/demo/~/.vscode-root/Backups/79e751e3448fec7a2ea30a43568780d1",
+                "uiState": {
+                    "mode": 1,
+                    "x": 128,
+                    "y": 23,
+                    "width": 1024,
+                    "height": 712
+                }
+            }
+        ]
     },
-    "pickerWorkingDir": "/Users/sarlex/dev/reactworks"
+    "pickerWorkingDir": "/Users/sarlex/dev/evince-hr2-env"
 }
